@@ -1,7 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 
-- 🔭 I’m currently working on ... All things Java!
+- 🔭 I’m currently working on ... All things Java! Currently studying to take the OCA Java SE 8 Programmer exam. 
 - 🌱 I’m currently learning ... Core Java / Spring Tool Suite
 - 👯 I’m looking to collaborate on ... STS
 - 🤔 I’m looking for help with ... AWS
