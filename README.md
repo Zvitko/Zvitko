@@ -8,3 +8,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Zwvitko1@gmail.com / [Linkedin](https://www.linkedin.com/in/zachery-vitko-438058139/)
 - ⚡ Fun fact: ... I love to travel - the wife and I travel somewhere different in the world every December
+- 💻 Feel free to fork any of my projects and submit your pull request. I love collaborating with others to solve a problem and improve my code.
