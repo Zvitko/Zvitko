@@ -1,9 +1,9 @@
 ### Here is What I'm Working On! 👋
 
 
-- 🔭 I’m currently working on ... IOS app
-- 🌱 I’m currently learning ... IOS Development -> Swift / SwiftUI
-- 👯 I’m looking to collaborate on ... All things Swift
+- 🔭 I’m currently working on ... Backend Dev
+- 🌱 I’m currently learning ... Python -> Flask / Djando
+- 👯 I’m looking to collaborate on ... All things Python
 - 💬 Ask me about ... Anything developement, I enjoy using technology to solve problems
 - 📫 How to reach me: ... Zwvitko1@gmail.com / [Linkedin](https://www.linkedin.com/in/zachery-vitko-438058139/)
 - ⚡ Fun fact: ... I love to travel - The wife and I travel somewhere different in the world every December
