@@ -1,7 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 
-- 🔭 I’m currently working on ... Macher's of Computer Science, Machine Learning
+- 🔭 I’m currently working on ... Master's of Computer Science, Machine Learning
 - 🌱 I’m currently learning ... Machine Learning, SL/UL
 - 👯 I’m looking to collaborate on ... All things Python
 - 💬 Ask me about ... Anything developement, I enjoy using technology to solve problems
