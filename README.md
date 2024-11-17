@@ -1,8 +1,8 @@
 ### Here is What I'm Working On! 👋
 
 
-- 🔭 I’m currently working on ... Master's of Computer Science, Machine Learning
-- 🌱 I’m currently learning ... Machine Learning, SL/UL
+- 🔭 I’m currently working on ... Master's of Computer Science
+- 🌱 I’m currently learning ... DevOps
 - 👯 I’m looking to collaborate on ... All things Python
 - 💬 Ask me about ... Anything developement, I enjoy using technology to solve problems
 - 📫 How to reach me: ... Zwvitko1@gmail.com / [Linkedin](https://www.linkedin.com/in/zachery-vitko-438058139/)
